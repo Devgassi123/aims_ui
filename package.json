@@ -1,0 +1,64 @@
+{
+  "name": "react-aims",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@mui/material": "^5.9.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "firebase": "^8.3.0",
+    "form-serialize": "^0.7.2",
+    "formik": "^2.2.9",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "react": "^16.14.0",
+    "react-barcode": "^1.4.6",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-dom": "^16.13.1",
+    "react-hook-form": "^7.30.0",
+    "react-icons": "^4.3.1",
+    "react-material-ui-carousel": "^2.2.1",
+    "react-moment": "^1.1.1",
+    "react-number-format": "^4.4.4",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-toast-notifications": "^2.4.0",
+    "react-transition-group": "^4.4.2",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "reverse-md5": "^0.0.5",
+    "sweetalert": "^2.1.2",
+    "typeface-roboto": "^0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
